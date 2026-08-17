@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="diktyaProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/diktyaProject_jar</output-path>
+    <root id="archive" name="diktyaProject.jar">
+      <element id="module-output" name="diktyaProject" />
+    </root>
+  </artifact>
+</component>
